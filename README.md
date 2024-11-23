@@ -1,6 +1,8 @@
 # VP-dataset
 The VP-dataset is a specialized benchmark designed to evaluate pedestrian and vehicle detection model in complex scenarios, addressing challenges such as occlusion, truncation, and long-distance targets. 
 
+![](https://github.com/liu-5658/VP-dataset/blob/main/fig-dataset.pdf)
+
 The download link for the dataset is as follows: https://www.kaggle.com/datasets/lwenbo77/vp-dataset
 ## Acknowledgements
 
